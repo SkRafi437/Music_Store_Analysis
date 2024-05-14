@@ -1,10 +1,11 @@
 # Music Store Analysis
 
-*Project Description:
+### Project Description:
 
-*Tools Used:
+### Tools Used:
+
 MySQL
-*Tables Used:
+### Tables Used:
 album
 artist
 customer
@@ -18,7 +19,7 @@ playlist_track
 track
 
 
-*Queries:
+### Queries:
 
 
 
