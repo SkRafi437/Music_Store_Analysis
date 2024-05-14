@@ -4,19 +4,19 @@
 
 ### Tools Used:
 
-MySQL
+-MySQL
 ### Tables Used:
-album
-artist
-customer
-employee
-invoice
-genre
-invoice_line
-media_type
-playlist
-playlist_track
-track
+- album
+- artist
+- customer
+- employee
+- invoice
+- genre
+- invoice_line
+- media_type
+- playlist
+- playlist_track
+- track
 
 
 ### Queries:
